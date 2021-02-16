@@ -1,0 +1,12 @@
+Dependencies for Project 'i2c', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x51C80D6E)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I D:\programy\Keil4_studia\ARM\RV31\INC-I D:\programy\Keil4_studia\ARM\CMSIS\Include-I D:\programy\Keil4_studia\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\main.c)(0x5FCF9362)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\programy\Keil4_studia\ARM\RV31\INC-I D:\programy\Keil4_studia\ARM\CMSIS\Include-I D:\programy\Keil4_studia\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (D:\STUDIA\V_semestr\Standardy_komunikacji_miedzyukladowej\I2C_basic\i2c.h)(0x60217D1C)
+I (D:\STUDIA\V_semestr\Standardy_komunikacji_miedzyukladowej\I2C_basic\led.h)(0x5FCED5A2)
+F (.\i2c.c)(0x60217D1A)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\programy\Keil4_studia\ARM\RV31\INC-I D:\programy\Keil4_studia\ARM\CMSIS\Include-I D:\programy\Keil4_studia\ARM\Inc\Philips-o .\i2c.o --omf_browse .\i2c.crf --depend .\i2c.d)
+I (D:\programy\Keil4_studia\ARM\Inc\Philips\LPC21xx.H)(0x5E551057)
+I (D:\STUDIA\V_semestr\Standardy_komunikacji_miedzyukladowej\I2C_basic\i2c.h)(0x60217D1C)
+I (D:\STUDIA\V_semestr\Standardy_komunikacji_miedzyukladowej\I2C_basic\led.h)(0x5FCED5A2)
+F (.\led.c)(0x5FCED5A2)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I D:\programy\Keil4_studia\ARM\RV31\INC-I D:\programy\Keil4_studia\ARM\CMSIS\Include-I D:\programy\Keil4_studia\ARM\Inc\Philips-o .\led.o --omf_browse .\led.crf --depend .\led.d)
+I (D:\programy\Keil4_studia\ARM\Inc\Philips\LPC21xx.H)(0x5E551057)
+I (D:\STUDIA\V_semestr\Standardy_komunikacji_miedzyukladowej\I2C_basic\led.h)(0x5FCED5A2)
